@@ -16,3 +16,4 @@ class Solution:
 solution = Solution()
 print(solution.countOdds(3, 7))
 print(solution.countOdds(8, 10))
+print(solution.countOdds(1, 10))
